@@ -17,18 +17,31 @@ Demographic info about customers – gender, age range, and if they have partner
 ### 1. Understand the Dataset
 Column Name	Description
 customerID: Unique identifier for each customer.
+
 gender: Male or Female.
+
 SeniorCitizen: Whether the customer is a senior citizen (1) or not (0).
+
 Partner/Dependents: Whether the customer has a partner or dependents (Yes/No).
+
 tenure: Number of months the customer has stayed with the company.
+
 PhoneService/MultipleLines: Whether the customer has phone service or multiple lines.
+
 InternetService: Type of internet service (DSL, Fiber optic, No).
+
 OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies: Additional services the customer has subscribed to (Yes/No).
+
 Contract: Type of contract (Month-to-month, One year, Two year).
+
 PaperlessBilling: Whether the customer is using paperless billing (Yes/No).
+
 PaymentMethod: Method of payment (Electronic check, Mailed check, Bank transfer, Credit card).
+
 MonthlyCharges: The amount charged to the customer monthly.
+
 TotalCharges: Total amount charged to the customer.
+
 Churn: Target variable — whether the customer has churned (Yes/No).
 
 ### 2. Data Preprocessing
