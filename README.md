@@ -15,10 +15,11 @@ Demographic info about customers – gender, age range, and if they have partner
 
 ## Steps for Processing and Building the Project
 ### 1. Understand the Dataset
-Column Name	Description
-customerID: Unique identifier for each customer.
+Column Name :	Description
 
-gender: Male or Female.
+customerID  : Unique identifier for each customer.
+
+gender      : Male or Female.
 
 SeniorCitizen: Whether the customer is a senior citizen (1) or not (0).
 
@@ -30,7 +31,9 @@ PhoneService/MultipleLines: Whether the customer has phone service or multiple l
 
 InternetService: Type of internet service (DSL, Fiber optic, No).
 
-OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies: Additional services the customer has subscribed to (Yes/No).
+OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV
+
+StreamingMovies: Additional services the customer has subscribed to (Yes/No).
 
 Contract: Type of contract (Month-to-month, One year, Two year).
 
