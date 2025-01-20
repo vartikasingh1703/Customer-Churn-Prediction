@@ -40,16 +40,18 @@ Churn: Target variable — whether the customer has churned (Yes/No).
 ### 3. Exploratory Data Analysis (EDA):
   #### Visualization
   ->Bar chart for churn rate by Contract.
-  ![block chart](https://github.com/user-attachments/assets/bb61207d-30e6-4b8a-9466-fd946e8e126c)
-
-  ->Box plot for MonthlyCharges by Churn.
-  ![21 01 2025_00 57 34_REC](https://github.com/user-attachments/assets/4e5ae45d-4500-4639-b478-3ada0667ed3a)
-
-  -> Pie chart for InternetService distribution.
-  ![pie chrt](https://github.com/user-attachments/assets/ded5d7e7-b6ac-4bf5-9ec8-0bad20047e92)
   ![21 01 2025_00 57 47_REC](https://github.com/user-attachments/assets/dc6b3b0e-c0d3-482a-a8f0-fe8cac9908a5)
 
-  ![21 01 2025_00 57 20_REC](https://github.com/user-attachments/assets/35b031aa-e724-4849-8422-1d6e4a569add)
+
+  ->Box plot for MonthlyCharges by Churn.
+![21 01 2025_00 57 20_REC](https://github.com/user-attachments/assets/35b031aa-e724-4849-8422-1d6e4a569add)
+  
+
+  -> Pie chart for InternetService distribution.
+  
+  ![pie chrt](https://github.com/user-attachments/assets/ded5d7e7-b6ac-4bf5-9ec8-0bad20047e92)
+  ![block chart](https://github.com/user-attachments/assets/bb61207d-30e6-4b8a-9466-fd946e8e126c)
+  ![21 01 2025_00 57 34_REC](https://github.com/user-attachments/assets/4e5ae45d-4500-4639-b478-3ada0667ed3a)
   
 
 
