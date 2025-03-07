@@ -4,6 +4,7 @@ The main objective of the Customer Churn Prediction project is to analyze the de
 
 ## About the Dataset:
 The dataset used in this project is sourced from Kaggle and comprises 7043 rows (customers) and 21 columns (features). The dataset's primary objective is to predict whether a customer will churn (buy a service) based on their gender, age range, and if they have partners and dependents.
+
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 The data set includes information about:
